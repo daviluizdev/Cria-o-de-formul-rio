@@ -1,0 +1,150 @@
+.Menu3 {
+display: inline;
+word-spacing: 60px;
+font-size: 20px;
+
+}
+
+.Menu4 {
+    display: inline;
+    word-spacing:20px;
+    font-size: 20px;
+}
+
+.Menu1 {
+
+display: inline;
+font-size: 25px;
+
+}
+.Menu2 {
+    display:inline ;
+font-size: 25px;
+
+}
+
+form{
+   background-color: red;
+   height: 35px;
+   color: white;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   background-color: red;
+}
+
+.Cadastro {
+    position: absolute;
+            top: 20%;
+            left: 40%;
+            font-size: 35px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     
+}
+
+.h11 {
+    position: absolute;
+    top: 31%;
+    left: 45%;
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+    }
+
+.h12 {
+
+    position: absolute;
+    top: 40%;
+    left: 45%;
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.h13 {
+    position: absolute;
+    top: 49%;
+    left: 45%;
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.h14 {
+
+    position: absolute;
+    top: 58%;
+    left: 45%;
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+
+
+.search1 {
+
+position: absolute;
+top: 34%;
+left: 54%;
+font-size: 18px;
+background-color: white;
+}
+.search2 {
+
+    position: absolute;
+    top: 43%;
+    left: 54%;
+    font-size: 18px;
+    background-color: white;
+    }
+
+    .search3 {
+
+        position: absolute;
+        top: 52%;
+        left: 54%;
+        font-size: 18px;
+        background-color: white;
+        }
+
+        .search4 {
+
+            position: absolute;
+            top: 61%;
+            left: 54%;
+            font-size: 18px;
+            background-color: white;
+            }
+
+.Canc {
+    position: absolute;
+    top: 69%;
+    left: 46%;
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 2px solid #1d0a0a; /* Adiciona uma borda sólida de 1 pixel de largura, cinza */
+    border-radius: 7px; 
+    background-color: red;
+    color: white;
+
+}
+
+.Cad {
+
+    position: absolute;
+    top: 69%;
+    left: 59%;
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 2px solid #1d0a0a; /* Adiciona uma borda sólida de 1 pixel de largura, cinza */
+    border-radius: 7px; 
+    background-color: red;
+    color: white;
+
+
+
+
+
+}
+
+
